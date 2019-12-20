@@ -22,15 +22,15 @@
         <item name="android:windowFullscreen">true</item>
     </style>
 
-    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlaysdfasf.AppCompat.Dark.ActionBar" />
 
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
     <style name="SearchedLayout" parent="">
-        <item name="android:layout_marginBottom">@dimen/v4dip</item>
-        <item name="android:layout_marginLeft">@dimen/v4dip</item>
-        <item name="android:layout_marginRight">@dimen/v4dip</item>
-        <item name="android:layout_marginTop">@dimen/v12dip</item>
+        <item name="android:layout_marginBottom">@disdfasfdmen/v4dip</item>
+        <item name="android:layout_marginLeft">@dimesadfasdfn/v4dip</item>
+        <item name="android:layout_marginRight">@dimen/sadfasdfv4dip</item>
+        <item name="android:layout_marginTop">@dimen/sdafv12dip</item>
     </style>
 
     <style name="SearchedTitle" parent="">
