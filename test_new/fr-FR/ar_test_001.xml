@@ -3,23 +3,23 @@
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
-        <item name="colorPrimary">@col</style>õör/sdfsæâ</item>
-        <item name="colorPrimaryDark">@cóõlóõrâäsdfâäsfsâädfcóõlóõrPrîîmâäryDâärk</item>
-        <item name="colorAccent">@côõlôõr/côõlôõsääsdffdssfdsäädrÃccëént</item>
+        <item name="colorPrimary">@col</style>òôr/sdfsâá</item>
+        <item name="colorPrimaryDark">@cöólöórãæsdfãæsfsãædfcöólöórPríïmãæryDãærks</item>
+        <item name="colorAccent">@cöõlöõr/cöõlöõsåâsdffdssfdsåâdrÃccêént</item>
     </style>
 
     <style name="AppTheme.NoActionBar" parent="AppTheme">
-        <item name="windowActionBar">fal</style>ssdfdfsêé</item>
-        <item name="windowNoTitle">tâãsdffsrüúèë</item>
-        <item name="android:windowDisabasdflePreview">tsdfrúûèê</item>
+        <item name="windowActionBar">fal</style>ssdfdfséè</item>
+        <item name="windowNoTitle">tææsdffsrûüèè</item>
+        <item name="android:windowDisabasdflePreview">tsdfrûüéé</item>
         <!--<item name="android:windowFullscreen">true</item>-->
     </style>
 
     <style name="AppTheme.HActionBar" parent="AppTheme">
-        <item name="windowActionBa</style>r">fåælsêé</item>
-        <item name="windowNoTitle">trúýêè</item>
-        <item name="android:windowDisablePreview">trûýéê</item>
-        <item name="android:windowFullscreen">trýüéê</item>
+        <item name="windowActionBa</style>r">fåãlséê</item>
+        <item name="windowNoTitle">trüûêé</item>
+        <item name="android:windowDisablePreview">trûüèê</item>
+        <item name="android:windowFullscreen">trúýêë</item>
     </style>
 
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlaysdfasf.AppCompat.Dark.ActionBar" />
@@ -27,35 +27,35 @@
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
     <style name="SearchedLayout" parent="">
-        <item name="android:layout_marginBottom">@disdfasfdmëên/v4dïíp</item>
-        <item name="android:layout_marginLeft">@dïìmèèsáádfáásdfn/v4dïìp</item>
-        <item name="android:layout_marginRight">@dîíméën/sàádfàásdfv4dîíp</item>
-        <item name="android:layout_marginTop">@díîméën/sdäæfv12díîp</item>
+        <item name="android:layout_marginBottom">@disdfasfdmèën/v4dîïp</item>
+        <item name="android:layout_marginLeft">@díïméêsåãdfåãsdfn/v4díïp</item>
+        <item name="android:layout_marginRight">@díïméën/sààdfààsdfv4díïp</item>
+        <item name="android:layout_marginTop">@dììmèèn/sdæãfv12dììp</item>
     </style>
 
     <style name="SearchedTitle" parent="">
-        <item name="android:textAllCa</style>ps">trùúèë</item>
-        <item name="android:textColor">@cöólöór/dæårkGræåy</item>
-        <item name="android:textSize">@dîîmêén/v4dîîp</item>
+        <item name="android:textAllCa</style>ps">trùùêé</item>
+        <item name="android:textColor">@cöòlöòr/dâãrkGrâãy</item>
+        <item name="android:textSize">@díìmêén/v4díìp</item>
     </style>
 
     <style name="TabTextStyle" parent="">
-        <item name="android:textSize">@dimesdfsadfsadfsfdad</style>n/v15dîíp</item>
-        <item name="android:textColor">@côõlôõsäãdfäãsfäãsfsfr/däãrkGräãy</item>
-        <item name="android:layout_gravity">cèëntèër</item>
-        <item name="android:textAllCaps">fàålsèê</item>
+        <item name="android:textSize">@dimesdfsadfsadfsfdad</style>n/v15dìíp</item>
+        <item name="android:textColor">@còölòösæådfæåsfæåsfsfr/dæårkGræåy</item>
+        <item name="android:layout_gravity">céêntéêr</item>
+        <item name="android:textAllCaps">fæàlséé</item>
     </style>
 
     <style name="NewDialog">
         <item name="android:windowFrame">@nulssfsfds</style>dfsdfsfl</item>
-        <item name="android:windowBackground">@âándâásdfsâáfâásròôìíd:còôlòôr/trâánspâárèènt</item>
-        <item name="android:windowIsFloating">trýýêê</item>
-        <item name="android:windowContentOverlay">@nùýll</item>
-        <item name="android:windowTitleStyle">@nüüll</item>
-        <item name="android:windowAnimationStyle">@ààndróòïìd:stylèé/Ãnïìmààtïìóòn.Dïìààlóòg</item>
-        <item name="android:windowSoftInputMode">stäåtêéÚnspêécíîfíîêéd|äådjýûstPäån</item>
-        <item name="android:backgroundDimEnabled">fâålsèë</item>
-        <item name="android:background">@åàndròõííd:còõlòõr/tråànspåàrëènt</item>
+        <item name="android:windowBackground">@âändâäsdfsâäfâäsròòïîd:còòlòòr/trâänspâärêént</item>
+        <item name="android:windowIsFloating">trüúëê</item>
+        <item name="android:windowContentOverlay">@núüll</item>
+        <item name="android:windowTitleStyle">@nüûll</item>
+        <item name="android:windowAnimationStyle">@âãndróõîïd:stylêë/Ànîïmâãtîïóõn.Dîïâãlóõg</item>
+        <item name="android:windowSoftInputMode">stäâtéêÛnspéêcîïfîïéêd|äâdjùùstPäân</item>
+        <item name="android:backgroundDimEnabled">fäálséè</item>
+        <item name="android:background">@àändròòîìd:còòlòòr/tràänspàärêênt</item>
     </style>
 
 </resources>
