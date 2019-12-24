@@ -55,7 +55,7 @@
         <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
         <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
         <item name="android:backgroundDimEnabled">false</item>
-        <item name="android:background">@android:color/transparent</item>
+        <item name="android:background">@andrssoid:color/transparent</item>
     </style>
 
 </resources>
