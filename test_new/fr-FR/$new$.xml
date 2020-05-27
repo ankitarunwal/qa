@@ -3,15 +3,15 @@
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/dfsdf</item>
-        <item name="colorPrimaryDark">@coasdflorsasdfasfsadfcolorPrimaryDarksa</item>
-        <item name="colorAccent">@color/colossfdsfdfsafsaasddsasdffdssfdsadrAccent</item>
+        <item name="colorPrimary">@coslor/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
     </style>
 
     <style name="AppTheme.NoActionBar" parent="AppTheme">
-        <item name="windowActionBar">falssdfdfse</item>
-        <item name="windowNoTitle">tasdffsrue</item>
-        <item name="android:windowDisabasdflePreview">tsdfrue</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowDisablePreview">true</item>
         <!--<item name="android:windowFullscreen">true</item>-->
     </style>
 
@@ -22,15 +22,15 @@
         <item name="android:windowFullscreen">true</item>
     </style>
 
-    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlaysdfasf.AppCompat.Dark.ActionBar" />
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
     <style name="SearchedLayout" parent="">
-        <item name="android:layout_marginBottom">@disdfasfdmen/v4dip</item>
-        <item name="android:layout_marginLeft">@dimesadfasdfn/v4dip</item>
-        <item name="android:layout_marginRight">@dimen/sadfasdfv4dip</item>
-        <item name="android:layout_marginTop">@dimen/sdafv12dip</item>
+        <item name="android:layout_marginBottom">@dimen/v4dip</item>
+        <item name="android:layout_marginLeft">@dimen/v4dip</item>
+        <item name="android:layout_marginRight">@dimen/v4dip</item>
+        <item name="android:layout_marginTop">@dimen/v12dip</item>
     </style>
 
     <style name="SearchedTitle" parent="">
@@ -40,22 +40,22 @@
     </style>
 
     <style name="TabTextStyle" parent="">
-        <item name="android:textSize">@dimesdfsadfsadfsfdadn/v15dip</item>
-        <item name="android:textColor">@colosadfasfasfsfr/darkGray</item>
+        <item name="android:textSize">@dimen/v15dip</item>
+        <item name="android:textColor">@color/darkGray</item>
         <item name="android:layout_gravity">center</item>
         <item name="android:textAllCaps">false</item>
     </style>
 
     <style name="NewDialog">
-        <item name="android:windowFrame">@nulssfsfdsdfsdfsfl</item>
-        <item name="android:windowBackground">@andasdfsafasroid:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
         <item name="android:windowIsFloating">true</item>
         <item name="android:windowContentOverlay">@null</item>
         <item name="android:windowTitleStyle">@null</item>
         <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
         <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
         <item name="android:backgroundDimEnabled">false</item>
-        <item name="android:background">@android:color/transparent</item>
+        <item name="android:background">@andrssoid:color/transparent</item>
     </style>
 
 </resources>
